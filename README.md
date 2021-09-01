@@ -7,8 +7,7 @@
 ![w2](https://user-images.githubusercontent.com/44563718/131645610-abffeb62-8d6b-4682-84a8-365bea9108f3.PNG)
 
 <br/><br/>
-# Features of the application
+# Features of the application:
 * User can get weather status of the city in world.
 * All the information about weather was stored as "key : values" pairs in weather API.
-* It was accessed by an application using JSON part.
-
+* It was accessed by an application using JSON object.
