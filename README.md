@@ -11,7 +11,7 @@
 ![w1](https://user-images.githubusercontent.com/44563718/131644835-638e456d-dbe8-47a2-992f-51b212216885.PNG) <br/>
 
 
-<br/> <br/>
+
 * When uer enters the city name,
 ![w2](https://user-images.githubusercontent.com/44563718/131645610-abffeb62-8d6b-4682-84a8-365bea9108f3.PNG)
 
