@@ -9,5 +9,5 @@ When user opens the app
 When user enters the city name, app looks like below
 
 
-![w1](https://github.com/manoj228/WeatherApplication/issues/2#issue-984909009)
+![w2](https://github.com/manoj228/WeatherApplication/issues/2#issue-984909009)
 
