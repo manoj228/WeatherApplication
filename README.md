@@ -9,5 +9,5 @@ When user opens the app
 When user enters the city name, app looks like below
 
 
-![w2](https://github.com/manoj228/WeatherApplication/issues/2#issue-984909009)
+![w2](https://user-images.githubusercontent.com/44563718/131645610-abffeb62-8d6b-4682-84a8-365bea9108f3.PNG)
 
