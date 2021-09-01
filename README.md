@@ -9,6 +9,6 @@
 <br/><br/>
 # Features of the application
 * User can get weather status of the city in world.
-* All the information about weather can be accessed by weather API.
-* 
+* All the information about weather was stored as "key : values" pairs in weather API.
+* It was accessed by an application using JSON part.
 
