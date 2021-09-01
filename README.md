@@ -12,7 +12,7 @@
 
 
 <br/>
-* When user enters the city name, <br/> <br/>
+* When user enters the city name, <br/>
 ![w2](https://user-images.githubusercontent.com/44563718/131645610-abffeb62-8d6b-4682-84a8-365bea9108f3.PNG)
 
 
