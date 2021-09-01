@@ -8,5 +8,7 @@
 
 <br/><br/>
 # Features of the application
-* User can get weather status of the city in world
+* User can get weather status of the city in world.
+* All the information about weather can be accessed by weather API.
+* 
 
