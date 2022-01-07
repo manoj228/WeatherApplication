@@ -1,5 +1,9 @@
 # Weather App(Android Application)
 
+# Demo Video
+https://user-images.githubusercontent.com/44563718/148533144-8bc9a5b7-6e76-4ac5-bfe1-75934bfcad35.mp4
+
+
 # Features of the application:
 * User can get weather status of the city in world.
 * All the information about weather was stored as "key : values" pairs in weather API.
